@@ -1,13 +1,4 @@
-"""Script to collect data for wake word training..
 
-    To record environment sound run set seconds to None. This will
-    record indefinitely until ctrl + c
-
-    To record for a set amount of time set seconds to whatever you want
-
-    To record interactively (usually for recording your own wake words N times).
-    use --interactive mode
-"""
 
 import pyaudio
 import wave

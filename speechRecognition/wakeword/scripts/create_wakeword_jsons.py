@@ -1,8 +1,4 @@
-"""Utility script to create training json file for wakeword.
 
-    There should be two directories. one that has all of the 0 labels
-    and one with all the 1 labels
-"""
 import os
 import argparse
 import json
